@@ -57,7 +57,7 @@ i{
     
 }
 .card:hover .right{
-    transform: translateY(-50px);
+    transform: translateY(-40px);
 }
 
 @media (max-width:700px) {
@@ -68,6 +68,6 @@ i{
         margin: 20px 0;
     }
     .card:hover .right {
-        margin: 20px 0;
+        margin: 6px 0;
     }
 }
